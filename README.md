@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Login, registration, resetPassword, and home screens are set up using Firebase as backend.
+Login, registration, resetPassword, and home screens are set up using firebase_auth and Firestore database.
